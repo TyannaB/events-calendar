@@ -1,7 +1,6 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
   background-color: #f2f2f2;
-
 }
 
 .grey {
@@ -9,8 +8,7 @@ html {
   border-radius: 8px;
   color: #666;
   background-color: #ccc;
-  border-color:  #333;
-  text-decoration: none;
+  border-color: #333;
 }
 
 .red {
@@ -18,8 +16,7 @@ html {
   border-radius: 8px;
   color: #b92828;
   background-color: #f2bcbc;
-  border-color:  #991919;
-  text-decoration: none;
+  border-color: #991919;
 }
 
 .blue {
@@ -27,8 +24,7 @@ html {
   border-radius: 8px;
   color: #1d38da;
   background-color: #d2d6f0;
-  border-color:  #38448e;
-  text-decoration: none;
+  border-color: #38448e;
 }
 
 .green {
@@ -36,6 +32,15 @@ html {
   border-radius: 8px;
   color: #6b7e54;
   background-color: #d1e0bf;
-  border-color:  #51603f;
+  border-color: #51603f;
   text-decoration: none;
+}
+
+td {
+  height: 10em;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
 }
