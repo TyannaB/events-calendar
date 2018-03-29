@@ -1,7 +1,7 @@
 html {
   font-family: 'Merriweather', serif;
   background-color: #f2f2f2;
-  text-decoration: none;
+
 }
 
 .grey {
@@ -10,6 +10,7 @@ html {
   color: #666;
   background-color: #ccc;
   border-color:  #333;
+  text-decoration: none;
 }
 
 .red {
@@ -18,6 +19,7 @@ html {
   color: #b92828;
   background-color: #f2bcbc;
   border-color:  #991919;
+  text-decoration: none;
 }
 
 .blue {
@@ -26,6 +28,7 @@ html {
   color: #1d38da;
   background-color: #d2d6f0;
   border-color:  #38448e;
+  text-decoration: none;
 }
 
 .green {
@@ -34,4 +37,5 @@ html {
   color: #6b7e54;
   background-color: #d1e0bf;
   border-color:  #51603f;
+  text-decoration: none;
 }
